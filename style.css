@@ -1,5 +1,6 @@
-h1{
-    color: white;
+
+h3{
+    color: gray;
 }
 
 .text-overlay {
@@ -19,4 +20,8 @@ h1{
 }
 .evidenziatore{
     background-color: yellow;
+}
+
+#uno{
+    color: blue;
 }
