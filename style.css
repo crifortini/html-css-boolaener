@@ -3,6 +3,13 @@ h3{
     color: gray;
 }
 
+header{
+  background-color: skyblue;
+  padding-top: 32px;
+  padding-left: 64px;
+  padding-bottom: 24px;
+}
+
 .text-overlay {
   position: absolute;
   top: 173%; 
